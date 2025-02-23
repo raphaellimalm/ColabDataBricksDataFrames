@@ -1,0 +1,68 @@
+﻿Crie um orçamento pessoal mensal nesta planilha. Instruções úteis sobre como usar esta planilha estão nas células desta coluna. Pressione Seta para baixo para começar.;;;;;;;;;
+O cabeçalho desta planilha está na célula à direita. A próxima instrução está na célula A4.;Orçamento Mensal;;;;;;;;
+;;;;;;;;;
+O rótulo Renda mensal prevista está na célula à direita. Insira Renda 1 na célula E4 e Renda adicional em E5 para calcular a Renda mensal total em E6. A próxima instrução está na célula A6.;RENDA MENSAL PREVISTA;SalarioRaphael;;R$ 0,00;;"SALDO PREVISTO 
+(renda menos custo previsto)";;;R$ 0,00
+;;SalarioSheiliane;;;;;;;
+O Saldo previsto é calculado automaticamente na célula J4, o Saldo real em J6 e a Diferença em J8. A próxima instrução está na célula A8.;;Renda mensal total;;R$ 0,00;;"SALDO REAL 
+(renda menos custo real)";;;-R$ 1.354,70
+;;;;;;;;;
+O rótulo de Renda mensal real está na célula à direita. Insira Renda 1 na célula E8 e Renda adicional em E9 para calcular a Renda mensal total em E10. A próxima instrução está na célula A12.;RENDA MENSAL REAL;Renda 1;;R$ 1.642,88;;"DIFERENÇA 
+(real menos previsto)";;;-R$ 1.354,70
+;;Renda extra;;;;;;;
+;;Renda mensal total;;R$ 1.642,88;;;;;
+;;;;;;;;;
+Insira os detalhes na tabela Moradia começando pela célula à direita e na tabela Entretenimento começando pela célula G12. A próxima instrução está na célula A25.;MORADIA;Custo previsto;Custo Real;Diferença;;ENTRETENIMENTO;Custo previsto;Custo Real;Diferença
+;Aluguel;R$ 0,00;R$ 720,00;-R$ 720,00;;Balada/festa;;;R$ 0,00
+;Telefone;R$ 0,00;R$ 0,00;R$ 0,00;;Plataformas de música;;;R$ 0,00
+;Pensão;R$ 0,00;R$ 0,00;R$ 0,00;;Filmes;;;R$ 0,00
+;Gás;R$ 0,00;R$ 0,00;R$ 0,00;;Shows;;;R$ 0,00
+;Água e luz;R$ 0,00;R$ 0,00;R$ 0,00;;Eventos esportivos;;;R$ 0,00
+;Internet;R$ 0,00;R$ 52,00;-R$ 52,00;;Teatro ao vivo;;;R$ 0,00
+;Dentista;R$ 0,00;R$ 0,00;R$ 0,00;;Outros;;;R$ 0,00
+;Ração Azure;R$ 0,00;R$ 0,00;R$ 0,00;;Outros;;;R$ 0,00
+;Alimentacão;R$ 0,00;R$ 0,00;R$ 0,00;;Outros;;;R$ 0,00
+;Academia;R$ 0,00;R$ 0,00;R$ 0,00;;Subtotal;;;R$ 0,00
+;Subtotal;;;-R$ 772,00;;;;;
+;;;;;;EMPRÉSTIMOS;Custo previsto;Custo Real;Diferença
+Insira os detalhes na tabela Transporte começando pela célula à direita e na tabela Empréstimos começando pela célula G24. A próxima instrução está na célula A35.;TRANSPORTE;Custo previsto;Custo Real;Diferença;;Pessoal;;;R$ 0,00
+;Pagamento do veículo;;;R$ 0,00;;Estudante;;;R$ 0,00
+;Transporte público/táxi;;;R$ 0,00;;Cartão de crédito Caixa;;R$ 1.976,20;-R$ 1.976,20
+;Seguro;;;R$ 0,00;;Cartão de crédito NuBank;;R$ 0,00;R$ 0,00
+;Licenciamento;;;R$ 0,00;;Cartão de crédito Santander;;R$ 249,38;-R$ 249,38
+;Combustível;;;R$ 0,00;;Cartão de crédito PicPay;;R$ 0,00;R$ 0,00
+;Manutenção;;;R$ 0,00;;Subtotal;;;-R$ 2.225,58
+;Outros;;;R$ 0,00;;;;;
+;Subtotal;;;R$ 0,00;;IMPOSTOS;Custo previsto;Custo Real;Diferença
+;;;;;;Federal;;;R$ 0,00
+Insira os detalhes na tabela Seguro começando pela célula à direita e na tabela Impostos começando pela célula G33. A próxima instrução está na célula A42.;SEGURO;Custo previsto;Custo Real;Diferença;;Estadual;;;R$ 0,00
+;Residencial;;;R$ 0,00;;Local;;;R$ 0,00
+;Saúde;;;R$ 0,00;;Outros;;;R$ 0,00
+;Vida;;;R$ 0,00;;Subtotal;;;R$ 0,00
+;Outros;;;R$ 0,00;;;;;
+;Subtotal;;;R$ 0,00;;POUPANÇAS OU INVESTIMENTOS;Custo previsto;Custo Real;Diferença
+;;;;;;Aposentadoria;;;R$ 0,00
+Insira os detalhes na tabela Alimentação começando pela célula à direita e na tabela Poupança começando pela célula G40. A próxima instrução está na célula A48.;ALIMENTAÇÃO;Custo previsto;Custo Real;Diferença;;Investimentos;;;R$ 0,00
+;Supermercado;;;R$ 0,00;;Outros;;;R$ 0,00
+;Jantar fora;;;R$ 0,00;;Subtotal;;;R$ 0,00
+;Outros;;;R$ 0,00;;;;;
+;Subtotal;;;R$ 0,00;;PRESENTES E DOAÇÕES;Custo previsto;Custo Real;Diferença
+;;;;;;Instituição beneficente 1;;;R$ 0,00
+Insira os detalhes na tabela Animais de estimação começando pela célula à direita e na tabela Presentes começando pela célula G46. A próxima instrução está na célula A56.;ANIMAIS DE ESTIMAÇÃO;Custo previsto;Custo Real;Diferença;;Instituição beneficente 2;;;R$ 0,00
+;Alimentação;;;R$ 0,00;;Instituição beneficente 3;;;R$ 0,00
+;Médico;;;R$ 0,00;;Subtotal;;;R$ 0,00
+;Banho e tosa;;;R$ 0,00;;;;;
+;Brinquedos;;;R$ 0,00;;ASSESSORIA JURÍDICA;Custo previsto;Custo Real;Diferença
+;Outros;;;R$ 0,00;;Advogado;;;R$ 0,00
+;Subtotal;;;R$ 0,00;;Pensão alimentícia;;;R$ 0,00
+;;;;;;Pagamentos em garantia ou julgamento;;;R$ 0,00
+Insira os detalhes na tabela Cuidados pessoais começando pela célula à direita e na tabela Assessoria jurídica começando pela célula G52. A próxima instrução está na célula A59.;CUIDADOS PESSOAIS;Custo previsto;Custo Real;Diferença;;Outros;;;R$ 0,00
+;Médico;;;R$ 0,00;;Subtotal;;;R$ 0,00
+;Cabelo/unhas;;;R$ 0,00;;;;;
+O Custo total previsto é calculado automaticamente na célula J59, o Custo total real em J61 e a Diferença total em J63.;Vestuário;;;R$ 0,00;;CUSTO TOTAL PREVISTO;;;R$ 0,00
+;Lavagem a seco;;;R$ 0,00;;;;;
+;Academia;;;R$ 0,00;;CUSTO TOTAL REAL;;;R$ 2.997,58
+;Impostos ou taxas de organização;;;R$ 0,00;;;;;
+;Outros;;;R$ 0,00;;DIFERENÇA TOTAL;;;-R$ 2.997,58
+;Subtotal;;;R$ 0,00;;;;;
+;;;;;;;;;
